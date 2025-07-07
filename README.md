@@ -92,12 +92,6 @@ Please follow the existing code style and add tests where applicable.
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License – see the `LICENSE` file for details.
-
----
-
 ## 👤 Author
 
 **Onkar Shirke**
